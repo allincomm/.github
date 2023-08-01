@@ -1,1 +1,1 @@
-# .github
+A repository host organization description.
