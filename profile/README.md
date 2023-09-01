@@ -1,4 +1,12 @@
-## Hi there 👋
+## AllinComm
+
+This project hosts allinradar related projects and OSS tools, consists of,
+  - `allinradar` package, `import allinradar as ar`,
+  - `allinradar-hw`, provides stable PL `.xsa` platform,
+  - `allinradar-fw`, PS firmware,
+  - `allinradar-ui`, PC software (UI part),
+  - `allinradar-algo`, PC software (algorithm part).
+ 
 
 <!--
 
