@@ -1,7 +1,7 @@
 ## RASOC
 
 This project hosts related projects and OSS tools, consists of,
-  - `rasoc` package, `import allinradar as ar`,
+  - `rasoc` package, `import rasoc as ra`,
   - `rasoc-hw`, provides stable PL `.xsa` platform,
   - `rasoc-fw`, PS firmware.
  
