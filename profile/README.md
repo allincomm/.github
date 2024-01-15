@@ -1,6 +1,6 @@
 ## RASOC
 
-This project hosts allinradar related projects and OSS tools, consists of,
+This project hosts related projects and OSS tools, consists of,
   - `rasoc` package, `import allinradar as ar`,
   - `rasoc-hw`, provides stable PL `.xsa` platform,
   - `rasoc-fw`, PS firmware.
